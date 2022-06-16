@@ -4,7 +4,7 @@
 	"description": "Seleium web otomasyon (E2E) testi",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com"
+		"url": "git@github.com:tugce225/gittigidiyor-web-automation-test.git"
 	},
 	"scripts": {
 		"test": "jest",

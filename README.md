@@ -18,7 +18,7 @@ Test akışı aşağıdaki şekildedir.
 Projeyi çalıştırmak için aşağıdaki adımları sırası ile takip etmeniz yeterli olacaktır.
 ```bash
 # Repoyu kopyalıyoruz
-git clone https://github.com
+git clone git@github.com:tugce225/gittigidiyor-web-automation-test.git
 
 # Bağımlılıları yüklüyoruz
 cd gittigidiyor-web-automation-test
